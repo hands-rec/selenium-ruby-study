@@ -3,6 +3,7 @@ GEM
   specs:
     childprocess (0.5.3)
       ffi (~> 1.0, >= 1.0.11)
+    ffi (1.9.3)
     ffi (1.9.3-x86-mingw32)
     multi_json (1.10.1)
     rubyzip (1.1.4)
@@ -14,6 +15,7 @@ GEM
     websocket (1.0.7)
 
 PLATFORMS
+  ruby
   x86-mingw32
 
 DEPENDENCIES
